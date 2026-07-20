@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+    text-align: center;
+}
+
+#pic {
+    width: 150px;
+    height: 200px;
+}
+
+.card {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(183, 223, 235);
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    border-bottom: 15px solid rgb(192, 96, 192);
+}
+p {
+    font-size: 18px;
+}
